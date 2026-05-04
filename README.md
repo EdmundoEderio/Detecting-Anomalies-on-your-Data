@@ -9,8 +9,8 @@
 
 | File | Link |
 |------|------|
-|  Presentation (PPTX) | [LW6_Anomaly_Detection.pptx](LW6_Anomaly_Detection.pptx) |
-|  Report (PDF) | [LW6_Anomaly_Detection.pdf](LW6_Anomaly_Detection.pdf) |
+|  Presentation (PPTX) | [LW6_Anomaly_Detection.pptx](LW6_Anomaly_Detection_v2.pptx) |
+|  Report (PDF) | [LW6_Anomaly_Detection.pdf](LW6_Anomaly_Detection_v2.pdf) |
 
 ---
 
