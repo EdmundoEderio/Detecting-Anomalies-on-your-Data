@@ -1,15 +1,22 @@
-# IS107 Laboratory Work-6 - Detecting-Anomalies-in-Your-Data
+# IS107 Laboratory Work 6 — Detecting Anomalies in Your Data
 
-## Power BI Laboratory Activity
+**Power BI Laboratory Activity**  
+**Submitted by:** Edmundo C. Ederio Jr.
 
-## Submitted By: Edmundo C. Ederio Jr
+---
 
-### Links:
+## 📎 Deliverables
 
+| File | Link |
+|------|------|
+|  Presentation (PPTX) | [LW6_Anomaly_Detection.pptx](LW6_Anomaly_Detection.pptx) |
+|  Report (PDF) | [LW6_Anomaly_Detection.pdf](LW6_Anomaly_Detection.pdf) |
 
+---
 
-### Datasets
+##  Datasets
 
-[Click to view the anomaly-dataset](LW6-anomaly-dataset.csv)<br>
-
-[Click to view the tourism-datails](LW6-tourism-details.csv)
+| Dataset | Link |
+|---------|------|
+| Anomaly Dataset | [LW6-anomaly-dataset.csv](LW6-anomaly-dataset.csv) |
+| Tourism Details | [LW6-tourism-details.csv](LW6-tourism-details.csv) |
